@@ -60,7 +60,7 @@ The GCD of 250 and 111 is: 1
 <br/>
 
 ## Installation & Usage
-1. Make sure you have Python installed on your machine.
+1. Clone the repository or download the source code.
 2. Run the `euclid_algorithm.py` file using Python:
    ```bash
    python euclid_algorithm.py
