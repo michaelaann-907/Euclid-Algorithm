@@ -73,12 +73,12 @@ The GCD of 250 and 111 is: 1
 
 
 ## Examples
-Example 1
+
+#### Example 1
 ![euclid3](https://github.com/user-attachments/assets/5d60ee6c-bca8-49cd-80ac-d6a12666431b)
 <br/>
 <br/>
-<br/>
-Example 2
+#### Example 2
 ![euclid4](https://github.com/user-attachments/assets/3ee1a84f-ca1b-476f-8d24-acd1a0a930e3)
 
 
