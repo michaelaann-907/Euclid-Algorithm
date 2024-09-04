@@ -25,17 +25,12 @@ A table will be the output for this program:
 2. **Execution:** The program applies the Euclid Algorithm to compute the GCD of `m` and `n`.
 3. **Output:** The program outputs a table that shows each iteration of the algorithm, including the iteration index, quotient, dividend, divisor, and remainder. Finally, the GCD is displayed.
 
+<br/>
+
 ### Example
 When the program runs, it will look like this:
 
 ```plaintext
-Euclid Algorithm
-
-This program will find the greatest common divisors (gcd) of two integers.
-A table will be produced to list all of the factors (divisors) of m and
-all of the factors of n, and then compare the two lists and find the greatest
-factor which serves as the gcd (m,n) 
-
 
 Please enter the first integer (m): 250
 
@@ -56,11 +51,13 @@ ________________________________________
 
 
 3 	  27 	  27 	  1 	  0
-STOP
 
+STOP
 The GCD of 250 and 111 is: 1
+1
 ```
 
+<br/>
 
 ## Installation & Usage
 1. Make sure you have Python installed on your machine.
@@ -70,7 +67,7 @@ The GCD of 250 and 111 is: 1
    ```
 3. Follow the prompts to enter the two integers.
 
-
+<br/>
 
 ## Examples
 
